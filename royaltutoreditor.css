@@ -1,0 +1,24 @@
+#royaltutoreditor {
+    border: 1px solid #ccc;
+    padding: 4px;
+    line-height: 2.1em;
+}
+
+.math-equation {
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+    border: 1px;
+    border-style: solid;
+    background-color: lightblue;
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: blue;
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+    margin-right: 0.1em;
+    margin-left: 0.1em;
+}
+
+#math-field {
+    width: 100%;
+}
